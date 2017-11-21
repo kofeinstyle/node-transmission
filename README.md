@@ -19,9 +19,8 @@ transmission = new Transmission({
   password: 'password'   # default blank
   ssl: true   # default false use https
   url: '/my/other/url'   # default '/transmission/rpc'
-  ```
   });
-
+  ```  
 
 ## Definition
 
