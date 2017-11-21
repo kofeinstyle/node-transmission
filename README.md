@@ -11,15 +11,17 @@ npm install transmission
 ## How to Use
 
 ```js
-Transmission = require 'transmission'
-transmission = new Transmission
+Transmission = require ('transmission')
+transmission = new Transmission({
   host: 'localhost'  # default 'localhost'
   port: 9091         # default 9091
   username: 'username'   # default blank
   password: 'password'   # default blank
   ssl: true   # default false use https
   url: '/my/other/url'   # default '/transmission/rpc'
-```
+  ```
+  });
+
 
 ## Definition
 
