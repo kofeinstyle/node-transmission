@@ -5,7 +5,7 @@
   ],
   "name": "transmission",
   "description": "API client for transmissionbt",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "scripts": {
     "test": "mocha --ui bdd --reporter spec --colors --slow 10000"
   },
