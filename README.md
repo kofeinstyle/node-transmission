@@ -5,13 +5,13 @@ transmission-daemon wrapper script written in node.js
 ## Install
 
 ```sh
-npm install transmission
+npm install transmission-cl
 ```
 
 ## How to Use
 
 ```js
-Transmission = require ('transmission')
+Transmission = require ('transmission-cl')
 transmission = new Transmission({
   host: 'localhost'  # default 'localhost'
   port: 9091         # default 9091
