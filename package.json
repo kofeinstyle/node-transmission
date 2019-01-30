@@ -1,11 +1,12 @@
 {
   "author": "Tim <git@mangoraft.com",
   "contributors": [
-    "Alex Bepple"
+    "Alex Bepple",
+    "Efimov Maxim"
   ],
   "name": "transmission",
-  "description": "API client for transmissionbt",
-  "version": "0.4.10",
+  "description": "Fork for API client for transmissionbt",
+  "version": "0.4.11",
   "scripts": {
     "test": "mocha --ui bdd --reporter spec --colors --slow 10000"
   },
